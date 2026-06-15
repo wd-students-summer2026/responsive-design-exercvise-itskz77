@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+img {
+  width: 300px;
+}
+
+#moving-box {
+  position: relative;
+  width: 200px;
+  padding: 10px;
+  border: 1px solid black;
+  margin-top: 20px;
+}
